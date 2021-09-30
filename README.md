@@ -23,3 +23,8 @@ Latest Releases and Nightly builds are available at GitHub
 
  
 https://github.com/rmak78/pakpost-non-cod-shipping-vpp-opencart
+
+
+Download Free From Opencart Marketplace
+
+https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42696
